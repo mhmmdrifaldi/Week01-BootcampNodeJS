@@ -1,0 +1,8 @@
+{
+  "name": "Week01-BootcampNodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Muhammad Rifaldi <muhammadrifaldi410@gmail.com>",
+  "license": "MIT"
+}
